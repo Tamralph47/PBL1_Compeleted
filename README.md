@@ -13,7 +13,9 @@
 > Chúng tôi xây dựng dự án trên bản Visual Studio Code Version 1.78.2 .
 > Bạn có thể tham khảo link tải sau [Download Visual Studio code](https://code.visualstudio.com/download) .
 > Hãy chắc chắn rằng bạn đang chạy Win hay Macs phiên bản mới nhất 
-# 4. Các nguồn tham khảo để xây dựng dự án 
+# 4. Kết quả dự án
+-Đã kiểm thử và hoàn thành .
+# 5. Các nguồn tham khảo để xây dựng dự án 
  [stackoverflow](<https://stackoverflow.com/>)  
  ![Imgur](https://i.imgur.com/SFjeIDJ.png)
 
@@ -37,9 +39,6 @@
 
 ![Imgur](https://imgur.com/YnIswl3.png)
 
-https://howkteam.vn/(![image](https://github.com/tranviethang251/PBL1/assets/131354575/6491e459-e43b-402b-af47-1a4022143851))
-
-https://viblo.asia/newest(![image](https://github.com/tranviethang251/PBL1/assets/131354575/bd19b82e-ee81-4a7d-9d7c-4e873f7ac3ff)
 
 
 # 5. Lời cảm ơn 
